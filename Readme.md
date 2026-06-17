@@ -1,6 +1,5 @@
 # chai aur code Series
 
-This is a very     
-
+cover=MERN(MONGO'DB EXPRESS'JS REACT'JS NODE'JS)
 
 
